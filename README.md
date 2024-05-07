@@ -8,7 +8,7 @@
 This is the Git lab for CSCI 213 Software Development. One class was added, Car.java,
 which extends the abstract Vehicle class. The Car class contains the following:
 
-• two instance variables
+• two instance variables, the amount of doors and the amount of passengers
 
 • a parameterized constructor for all current and super instance variables
 
@@ -22,4 +22,4 @@ which extends the abstract Vehicle class. The Car class contains the following:
 
 
 ## Extra Item
-![This is Day Field](/image/README.jpeg )
+🚗🚕🚙🚌🚎🏎️🚓🚑🚒🚐🛻🚚🚛🚜🛵🏍️🛺🚔🚍🚘🚖
